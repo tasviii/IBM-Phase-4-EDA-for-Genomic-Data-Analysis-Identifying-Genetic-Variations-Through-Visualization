@@ -1,0 +1,2 @@
+# IBM-Phase-4-EDA-for-Genomic-Data-Analysis-Identifying-Genetic-Variations-Through-Visualization
+Genomic Data Analysis with PCA and t-SNE: Conducting advanced exploratory data analysis on genomic datasets using Principal Component Analysis (PCA) and t-distributed Stochastic Neighbor Embedding (t-SNE) for dimensionality reduction. Statistical tests help identify significant genetic markers and disease-associated variations.
